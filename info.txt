@@ -1,0 +1,11 @@
+df_daywiseTransactions - contains info about daily, quarterly and yearly transactions and money transfer
+
+    Purchaser Name                      Date of Purchase      TotalDenomination    TotalTransactions    Year    Quarter
+
+----------------------------------------------------------------
+
+df_combinedDenomination - for every company it contains total transfers value.
+    Purchaser Name                        CombinedDenomination
+
+----------------------------------------------------------------
+
